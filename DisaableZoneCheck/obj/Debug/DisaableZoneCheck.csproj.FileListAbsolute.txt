@@ -1,0 +1,12 @@
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\obj\Debug\DisaableZoneCheck.csprojResolveAssemblyReference.cache
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\DisaableZoneCheck.dll
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\DisaableZoneCheck.pdb
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\Assembly-CSharp.dll
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\ColossalManaged.dll
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\ICities.dll
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\UnityEngine.dll
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\bin\Debug\UnityEngine.xml
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\obj\Debug\DisaableZoneCheck.dll
+C:\Users\AJ\Desktop\DisaableZoneCheck\DisaableZoneCheck\obj\Debug\DisaableZoneCheck.pdb
